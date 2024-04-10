@@ -1,23 +1,20 @@
-# Wanderlust full-stack project - Wanderlust! 🌍✨
-An immersive travel planning platform designed to inspire and assist users in creating their dream vacations. The project seamlessly integrates both frontend and backend components to deliver a comprehensive experience.
-Full-Stack Development: Explored the MERN stack, diving into both front-end and back-end development.
-Image Upload and Storage: Implemented image upload functionality using Multer and Cloudinary.
-User Authentication: Leveraged Passport.js for secure user authentication.
-Error Handling: Ensured a smooth user experience with effective error handling.
-Bootstrap Styling: Used Bootstrap to create a clean and responsive design.
-MVC Architecture: Structured the project using the Model-View-Controller (MVC) architecture.
+Wanderlust is a travel platform that allows users to explore and share their favourite destinations. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and incorporates various technologies for features like image upload, user authentication, and interactive maps.
 
-
-🛠 Technologies Used:
+Technologies Used-
 Node.js
 Express.js
 MongoDB
+MERN Stack (MongoDB, Express.js, React.js, Node.js)
 Multer for image upload
 Cloudinary for image storage
 Passport.js for authentication
 Bootstrap for a sleek and responsive design
+Mapbox for interactive maps
 Error handling for a seamless user experience
-Mapbox for dynamic and interactive maps
 Other awesome libraries and tools!
 
-
+Key Features
+Listings: Create, edit, and delete your listings.
+Reviews: Leave reviews for your favourite destinations.
+Search and Filter: Easily find listings based on your preferences.
+User Authentication: Secure sign-up, login, and logout functionality.
