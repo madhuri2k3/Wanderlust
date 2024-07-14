@@ -1,2 +1,2 @@
 # Wanderlust
-comprehensive travel planning platform
+ A comprehensive travel planning platform that inspires and assists users in creating their dream vacations.
